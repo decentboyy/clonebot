@@ -1,6 +1,3 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/clonebot)
-
-
 <h1 align="left">
     <a target="_blank">
         Clonebot
@@ -91,7 +88,7 @@ sudo docker-compose start
 </details>
 
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/clonebot)
 
 
 

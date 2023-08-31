@@ -1,10 +1,12 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/clonebot)
+
+
 <h1 align="left">
     <a target="_blank">
         Clonebot
         <img src="http://www.randomnoun.com/wpf/shell32-avi/tshell32_160.gif" width="272" height="60">
     </a>
 </h1>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/clonebot)
 #### An <a href="https://choosealicense.com/licenses/gpl-3.0/"  target="_blank"> opensource </a> Telegram robot can clone media & text from any chat to your own chat.<br>
 Read the <a href="https://space4renjith.blogspot.com/2022/05/clonebot-technical-documentation.html" target="_blank"> documentation </a>to know how to use the bot
 <br>
